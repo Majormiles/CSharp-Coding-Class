@@ -1,0 +1,6 @@
+/Users/majormiles/Projects/StudentTotalScore/StudentTotalScore/bin/Debug/StudentTotalScore.exe
+/Users/majormiles/Projects/StudentTotalScore/StudentTotalScore/bin/Debug/StudentTotalScore.pdb
+/Users/majormiles/Projects/StudentTotalScore/StudentTotalScore/obj/Debug/StudentTotalScore.csproj.AssemblyReference.cache
+/Users/majormiles/Projects/StudentTotalScore/StudentTotalScore/obj/Debug/StudentTotalScore.csproj.CoreCompileInputs.cache
+/Users/majormiles/Projects/StudentTotalScore/StudentTotalScore/obj/Debug/StudentTotalScore.exe
+/Users/majormiles/Projects/StudentTotalScore/StudentTotalScore/obj/Debug/StudentTotalScore.pdb
